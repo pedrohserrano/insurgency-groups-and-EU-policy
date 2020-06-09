@@ -1,104 +1,328 @@
 ,0
-0,MYA
-1,IND
-2,UGA
-3,DRC
-4,SIE
-5,ETH
-6,ISR
-7,SAF
-8,IRN
-9,PHI
-10,GRG
-11,SUD
-12,BOS
-13,RUS
-14,PNG
-15,PAK
-16,MAL
-17,BUI
-18,CHA
-19,NEP
-20,THI
-21,NIR
-22,CON
-23,UKG
-24,YUG
-25,GRC
-26,INS
-27,YEM
-28,TUR
-29,MLD
-30,GUA
-31,ERI
-32,BOL
-33,COL
-34,PER
-35,ARG
-36,SAL
-37,SPN
-38,MEX
-39,ALG
-40,NIC
-41,MLI
-42,ANG
-43,FRN
-44,RVN
-45,POR
-46,RWA
-47,DJI
-48,CAM
-49,CEN
-50,AFG
-51,AZE
-52,LBR
-53,LEB
-54,NTH
-55,BNG
-56,SRI
-57,TRI
-58,IRQ
-59,ROK
-60,SEN
-61,UZB
-62,CDI
-63,URU
-64,COM
-65,TOG
-66,CHL
-67,CUB
-68,DOM
-69,EQG
-70,GAB
-71,GHA
-72,GNB
-73,KEN
-74,LES
-75,MOR
-76,NIG
-77,PAN
-78,PAR
-79,SOM
-80,SYR
-81,VEN
-82,GUI
-83,MAG
-84,TAJ
-85,YPR
-86,COS
-87,RUM
-88,LAO
-89,OMA
-90,CHN
-91,BFO
-92,USA
-93,MZM
-94,TUN
-95,SUR
-96,GAM
-97,CRO
-98,EGY
-99,HAI
-100,CYP
-101,MAC
-102,ZIM
+0,ABSDF
+1,ABSU
+2,ADF
+3,AFDL
+4,AFRC
+5,ALF
+6,AMB
+7,ANC
+8,APCO
+9,ARDUF
+10,ATTF
+11,Abu Sayyaf
+12,Anti-government alliance
+13,Anya Nya
+14,Arakan People's Liberation Party
+15,Arakan Rohingya Islamic Front
+16,Autonomous Province of Western Bosnia
+17,Azapo
+18,Azerbaijani Popular Front
+19,BCP
+20,BDPS
+21,BDSF/NDFB
+22,BLTF
+23,BMA
+24,BPAC
+25,BRA
+26,Baluchi separatists
+27,CCO
+28,CNDD
+29,CNDD-FDD
+30,CNL
+31,CNR
+32,CPI
+33,CPM
+34,CPN-M/UPF
+35,CPT
+36,CRA
+37,CSNPD
+38,Cocoyes
+39,Communist Party of Arakan
+40,Communist Party of Malaya
+41,Croatian Republic of Bosnia and Herzegovina
+42,Croatian irregulars
+43,DSE
+44,Darul Islam Movement
+45,Democratic Republic of Yemen
+46,Devrimci Sol
+47,Dniestr Republic
+48,EGP
+49,EIJM
+50,ELF
+51,ELF Factions
+52,ELN
+53,EOKA
+54,EPDM
+55,EPL
+56,EPLF
+57,EPRP
+58,ERP
+59,ETA
+60,EZLN
+61,Exile and Redemption
+62,FAL
+63,FAN
+64,FAR
+65,FARC
+66,FARF
+67,FARN
+68,FARS
+69,FDN/Contras
+70,FDR
+71,FDU
+72,FIAA
+73,FIS
+74,FLAA
+75,FLEC
+76,FLN
+77,FLNC
+78,FLOSY
+79,FMLN
+80,FNL
+81,FNLA
+82,FNT
+83,FOBA
+84,FPL
+85,FPR
+86,FROLINAT
+87,FRUD
+88,FSLN
+89,FUNCINPEC/ANS
+90,FUNK
+91,Faction of Francois Bozize
+92,Faction of SPLM
+93,Faction of UPDA
+94,Faction of Yemenite Socialist Party
+95,Fatah
+96,Forces of Carlos Castillo Armas
+97,Forest Brothers
+98,Frelimo
+99,Fretilin
+100,Frolina
+101,GAM
+102,GIA
+103,Government of Armenia and ANM
+104,HSM
+105,Hamas
+106,Hezb-i-Islami
+107,Hezb-i-Wahdat
+108,Hezbollah
+109,Huk
+110,Husseinov Military Faction
+111,INPFL
+112,IZL [Etzel]
+113,Independent Mining State of South Kasai
+114,Independent Nasserite Movement /Mourabitoun militia
+115,Indonesian Peoples Army
+116,Islamic Charter Front
+117,Islamic Legion
+118,Istiqlal
+119,JSS/SB/Shanti Bahini
+120,JVP
+121,Jamaat al-Muslimeen
+122,Jamiat-i-Islami
+123,KDP/DPK
+124,KDPI
+125,KIO
+126,KNF
+127,KNPP
+128,KNU
+129,KPNLF
+130,KUFNS
+131,Kamajors
+132,Kashmir Insurgents
+133,Katanga
+134,Khmer Issarak
+135,Khmer Rouge
+136,Khmer Rouge/PDK
+137,LNPA
+138,LRA
+139,LTS[p]A
+140,LTTE
+141,LURD
+142,Lao Issara
+143,Lebanese Army
+144,Lebanese Front
+145,Lebanese National Movement
+146,"Leftist insurgents (e.g. Inmin-gun: Peoples Army, Military Faction)"
+147,M-19
+148,MCC
+149,MDD [-FANT]
+150,MDJT
+151,MDRM
+152,MFDC
+153,MILF
+154,MIR
+155,MIU
+156,MJP
+157,MLC
+158,MLN  or Tupamaros
+159,MNA
+160,MNF
+161,MNLF
+162,MNLF (Faction)
+163,MNR
+164,MOSANAT
+165,MPA
+166,MPCI
+167,MPF
+168,MPIGO
+169,MPLA
+170,MPS
+171,MQM
+172,MR-13
+173,MRTA
+174,MTA
+175,MTD
+176,Mau Mau
+177,Military Faction
+178,Military Faction [Navy]
+179,Military Faction/RAM-SFP
+180,Military faction
+181,Monima National Independence Movement
+182,Montoneros
+183,Movement for Peace in Tajikistan
+184,Movimiento 26 De Julio: 26th of July Movement
+185,Mujahideen e Khalq
+186,Mukti Bahini: Liberation Force
+187,Muslim Brotherhood
+188,NLF
+189,NLFT
+190,NMSP
+191,NNC
+192,NPA
+193,NPFL
+194,NSCN
+195,National Democratic Front
+196,National Liberation Army
+197,National Revolutionary Council
+198,National Salvation Front
+199,Nationalists
+200,Naxalites/CPI [-Marxist]
+201,Naxalites/PWG
+202,Nepali Congress
+203,Neutrals
+204,Ninjas
+205,North Kalimantan Liberation Army
+206,Ntsiloulous
+207,OAS
+208,OLF
+209,ONLF
+210,OPM
+211,OPON forces
+212,ORPA
+213,Opposition alliance
+214,Opposition coalition
+215,"Opposition coalition [Febreristas, Liberals and Communists]"
+216,Opposition militias
+217,PAC
+218,PAIGC
+219,PFLOAG
+220,PFLP
+221,PFLP-GC
+222,PGT
+223,PIRA/IRA
+224,PKK/Kadek
+225,PLA
+226,PLOTE
+227,PNA
+228,PNDF
+229,POLISARIO
+230,PRRI
+231,PRTC
+232,PUK
+233,Palipehutu
+234,Palipehutu-FNL
+235,Parliamentary forces
+236,Pathet Lao
+237,Peoples Liberation Army
+238,Permesta movement
+239,Popular Front
+240,Popular Revolutionary Movement
+241,Presidential guard
+242,Puerto Rican Nationalist Party
+243,RCD
+244,RCD Faction
+245,RFDG
+246,RUF
+247,Real IRA
+248,Red Flag Movement
+249,Renamo
+250,Republic of Abkhazia
+251,Republic of Azerbaijan
+252,Republic of Biafra
+253,Republic of Chechnya
+254,Republic of Croatia
+255,Republic of Dagestan
+256,Republic of Kurdistan/KDPI
+257,Republic of Nagorno-Karabakh
+258,Republic of Slovenia
+259,Republic of South Moluccas
+260,Republic of South Ossetia
+261,Resistance Armee Tunisienne
+262,Rohingya Solidarity Organisation
+263,Royalists
+264,SAIRI
+265,SLA/Jungle Commando
+266,SNM
+267,SPLM
+268,SPM
+269,SRLP
+270,SRRC
+271,SSA
+272,SSDF
+273,SSIA
+274,SSNPLO
+275,SWAPO
+276,Sendero Luminoso
+277,Sendero Rojo
+278,Serbian Republic of Bosnia and Herzegovina
+279,Serbian Republic of Krajina
+280,Serbian irregulars
+281,Sikh insurgents
+282,State of Oman/Free Oman
+283,Sudanese Communist Party
+284,TELO
+285,TNV
+286,TPLF
+287,Tala i al-Fath
+288,Taliban
+289,Tibet
+290,Tonton Macoute/Military Faction
+291,Turkish Cypriots
+292,UCK
+293,UCK [Ushtria Clirimtare Kombetare: National Liberation Army]
+294,UDCM/UPDCA
+295,UFLA
+296,UFLA Faction
+297,UFM/UFDM
+298,UFRA
+299,UIFSA
+300,ULNLF
+301,UNITA
+302,UNLA
+303,UNLF
+304,UNRF
+305,UPA
+306,UPC
+307,UPDA
+308,UPF
+309,UPM/NRA
+310,URNG
+311,USC
+312,USC Faction
+313,UTO
+314,UWSA
+315,Ubumwe
+316,Ulimo-J
+317,Viet Nam Doc Dong Min Hoi
+318,WNBF
+319,WSLF
+320,ZANU
+321,ZAPU
+322,Zviadists
+323,al-Gamaa al-Islamiyya
+324,al-Itahad al-Islami
+325,al-Jihad  al-Islamiy
+326,al-Qaida [The Base]

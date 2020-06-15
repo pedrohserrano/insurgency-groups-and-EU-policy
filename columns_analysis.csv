@@ -1,0 +1,213 @@
+,column,nulls,p_nulls,codebook_article,unique_column,factor
+0,insurgency_group,0,0.0,,,
+1,groups_baad,731,0.8393,,,
+2,groups_forge,457,0.5247,,,
+3,groups_rtg,557,0.6395,,,
+4,groups_gsw,621,0.713,,,
+5,groups_good,860,0.9874,,,
+6,groups_mas,639,0.7336,,,
+7,groups_war,627,0.7199,,,
+8,rtg_ffund,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_ffund,Funding
+9,rtg_teraff,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_teraff,Political Activity
+10,rtg_ccodecow,559,0.6418,RTG (Reputation of Terror Groups) Dataset,rtg_ccodecow,Country
+11,rtg_media,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_media,Communication
+12,rtg_international,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_international,Territory
+13,rtg_outnegrep,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_outnegrep,Reputation
+14,rtg_educcaus,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_educcaus,Casualties
+15,rtg_logpop,562,0.6452,RTG (Reputation of Terror Groups) Dataset,rtg_logpop,Population
+16,rtg_left,599,0.6877,RTG (Reputation of Terror Groups) Dataset,rtg_left,Ideology
+17,rtg_intnegrep,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_intnegrep,Reputation
+18,rtg_pgood,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_pgood,Public Services
+19,rtg_propertycount,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_propertycount,Targets
+20,rtg_politics,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_politics,Political Activity
+21,rtg_govtargcount,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_govtargcount,Targets
+22,rtg_endedtype,561,0.6441,RTG (Reputation of Terror Groups) Dataset,rtg_endedtype,Ending
+23,rtg_nmbrtrr,559,0.6418,RTG (Reputation of Terror Groups) Dataset,rtg_nmbrtrr,Other Groups
+24,rtg_intposrep,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_intposrep,Reputation
+25,rtg_nkillter,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_nkillter,Killed
+26,rtg_age,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_age,Age
+27,rtg_tcode,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_tcode,Group Code
+28,rtg_cleavage,599,0.6877,RTG (Reputation of Terror Groups) Dataset,rtg_cleavage,Type
+29,rtg_logarea,565,0.6487,RTG (Reputation of Terror Groups) Dataset,rtg_logarea,Territory
+30,rtg_loggdp,585,0.6716,RTG (Reputation of Terror Groups) Dataset,rtg_loggdp,GDP
+31,rtg_govcaus,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_govcaus,Casualties
+32,rtg_rel,599,0.6877,RTG (Reputation of Terror Groups) Dataset,rtg_rel,Religion
+33,rtg_civcaus,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_civcaus,Casualties
+34,rtg_nwound,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_nwound,Wounded
+35,rtg_civcausreal,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_civcausreal,Casualties
+36,rtg_eductargcount,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_eductargcount,Targets
+37,rtg_rebel,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_rebel,Type
+38,rtg_nkill,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_nkill,Killed
+39,rtg_terpwing,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_terpwing,Political Activity
+40,rtg_parterr,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_parterr,Political Activity
+41,rtg_gname,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_gname,Group Name
+42,rtg_peaksize,617,0.7084,RTG (Reputation of Terror Groups) Dataset,rtg_peaksize,Size
+43,rtg_nat,599,0.6877,RTG (Reputation of Terror Groups) Dataset,rtg_nat,Ethno-Nationalism
+44,rtg_broadgoal,603,0.6923,RTG (Reputation of Terror Groups) Dataset,rtg_broadgoal,Goal
+45,rtg_logmil,568,0.6521,RTG (Reputation of Terror Groups) Dataset,rtg_logmil,Military
+46,rtg_endedtype2,561,0.6441,RTG (Reputation of Terror Groups) Dataset,rtg_endedtype2,Ending
+47,rtg_reputation,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_reputation,Reputation
+48,rtg_frec,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_frec,Recruitment
+49,rtg_eductargexist,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_eductargexist,Targets
+50,rtg_civtargcount,557,0.6395,RTG (Reputation of Terror Groups) Dataset,rtg_civtargcount,Targets
+51,forge_splinterUCDP,751,0.8622,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_splinterUCDP,Parent Organisation / Political Activity
+52,forge_ethnic,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ethnic,Ethno-Nationalism
+53,forge_fightday,466,0.535,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_fightday,Date
+54,forge_ethnicity,668,0.7669,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ethnicity,Ethno-Nationalism
+55,forge_ccode,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ccode,Country
+56,forge_ideolcom,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ideolcom,Ideology
+57,forge_ideolright,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ideolright,Ideology
+58,forge_preorglab,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorglab,Parent Organisation / Political Activity
+59,forge_cname,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_cname,Country
+60,forge_ideolnat,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ideolnat,Ethno-Nationalism
+61,forge_preorgrel,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgrel,Parent Organisation / Political Activity
+62,forge_goalindep,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_goalindep,Goal
+63,forge_preorgfmr,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgfmr,Parent Organisation / Political Activity
+64,forge_preorggov,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorggov,Parent Organisation / Political Activity
+65,forge_goalother,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_goalother,Goal
+66,forge_preorg,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorg,Parent Organisation
+67,forge_conflict_id,463,0.5316,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_conflict_id,Conflict
+68,forge_foundloc,43,0.0494,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_foundloc,Country
+69,forge_splinter,222,0.2549,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_splinter,Parent Organisation / Political Activity
+70,forge_foundday,717,0.8232,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_foundday,Date
+71,forge_preorgreb,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgreb,Parent Organisation
+72,forge_goaldem,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_goaldem,Goal
+73,forge_NSAdyadid,458,0.5258,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_NSAdyadid,Dyad
+74,forge_preorgmvt,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgmvt,Parent Organisation / Political Activity
+75,forge_ideolanti,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ideolanti,Ideology
+76,forge_ideolrel,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ideolrel,Religion
+77,forge_gacronym,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_gacronym,Name (Acronym)
+78,forge_fightyear,462,0.5304,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_fightyear,Date
+79,forge_goalrep,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_goalrep,Goal
+80,forge_foundmo,573,0.6579,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_foundmo,Date
+81,forge_ideolnote,262,0.3008,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ideolnote,Ideology
+82,forge_goalrights,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_goalrights,Goal
+83,forge_ideolleft,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ideolleft,Ideology
+84,forge_preorgyou,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgyou,Parent Organisation / Political Activity
+85,forge_actorid,459,0.527,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_actorid,Group Code
+86,forge_preorgoth,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgoth,Parent Organisation / Political Activity
+87,forge_ideology,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ideology,Ideology
+88,forge_preorgpar,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgpar,Parent Organisation / Political Activity
+89,forge_preorgmil,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgmil,Parent Organisation / Political Activity
+90,forge_merger,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_merger,Parent Organisation / Political Activity
+91,forge_dyadid,463,0.5316,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_dyadid,Dyad
+92,forge_goalchange,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_goalchange,Goal
+93,forge_goalnote,298,0.3421,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_goalnote,Goal
+94,forge_gname,458,0.5258,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_gname,Group Name
+95,forge_preorgno,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgno,Parent Organisation
+96,forge_goalauto,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_goalauto,Goal
+97,forge_ideoloth,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_ideoloth,Ideology
+98,forge_preorgname,28,0.0321,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgname,Parent Organisation / Political Activity
+99,forge_fightmo,464,0.5327,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_fightmo,Date
+100,forge_preorgfor,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgfor,Parent Organisation / Political Activity
+101,forge_preorgref,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgref,Parent Organisation / Political Activity
+102,forge_religious,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_religious,Religion
+103,forge_religion,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_religion,Religion
+104,forge_preorgeth,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_preorgeth,Parent Organisation / Political Activity
+105,forge_foundyear,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_foundyear,Date
+106,forge_goalnominal,1,0.0011,FORGE (Foundations of Rebel Group Emergence) Dataset,forge_goalnominal,Goal
+107,baad_terrcntrl,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_terrcntrl,Territory
+108,baad_torg,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_torg,Group Code
+109,baad_fdrob,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_fdrob,Funding
+110,baad_fdkidnap,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_fdkidnap,Funding
+111,baad_lead_hierarch,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_lead_hierarch,Leadership
+112,baad_fddrugtk,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_fddrugtk,Funding
+113,baad_fdextort,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_fdextort,Funding
+114,baad_hb_iso_cc,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_hb_iso_cc,Country
+115,baad_fdstate,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_fdstate,Funding
+116,baad_left,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_left,Ideology
+117,baad_hbccode,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_hbccode,Country
+118,baad_fdsmuggl,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_fdsmuggl,Funding
+119,baad_torg_year,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_torg_year,Group Code / Date
+120,baad_crim_degr_py,871,1.0,BAAD (Big Allied and Dangerous) Dataset,baad_crim_degr_py,Crime
+121,baad_age,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_age,Age
+122,baad_org,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_org,Group Name
+123,baad_size_rec,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_size_rec,Size
+124,baad_hbiso,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_hbiso,Country
+125,baad_reli,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_reli,Religion
+126,baad_hbase,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_hbase,Country
+127,baad_ethn,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_ethn,Ethno-Nationalism
+128,baad_socsvcs,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_socsvcs,Public Services
+129,baad_year,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_year,Date
+130,baad_ucdpbd,731,0.8393,BAAD (Big Allied and Dangerous) Dataset,baad_ucdpbd,Killed
+131,good_id,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_id,Country / Year
+132,good_effterrcont,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_effterrcont,?
+133,good_rebpresosts,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_rebpresosts,?
+134,good_ccode,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_ccode,Country
+135,good_confid,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_confid,Conflict
+136,good_startdate,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_startdate,Date
+137,good_rebextpart,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_rebextpart,?
+138,good_terr,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_terr,Territory
+139,good_sea,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_sea,Country
+140,good_location,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_location,Country
+141,good_acr,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_acr,Country
+142,good_conflicttype,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_conflicttype,Conflict
+143,good_presname,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_presname,?
+144,good_govsuport,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_govsuport,Support
+145,good_armsproc,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_armsproc,?
+146,good_terrcont,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_terrcont,?
+147,good_ex_sideb,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_ex_sideb,Group Name
+148,good_enddate,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_enddate,Date
+149,good_obsid,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_obsid,?
+150,good_dyadperiod,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_dyadperiod,Dyad
+151,good_strengthcent,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_strengthcent,Strength
+152,good_rebestimate,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_rebestimate,Size
+153,good_side_b,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_side_b,Group Name
+154,good_transconstsupp,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_transconstsupp,?
+155,good_ended,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_ended,Conflict
+156,good_rebestlow,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_rebestlow,Size
+157,good_rebsuport,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_rebsuport,?
+158,good_centcontrol,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_centcontrol,Leadership
+159,good_codedfromuctdp,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_codedfromuctdp,?
+160,good_stateab,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_stateab,Country
+161,good_rebstrength,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_rebstrength,Strength
+162,good_dyadid,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_dyadid,Dyad
+163,good_total,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_total,Country
+164,good_rebpolwing,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_rebpolwing,Political Activity
+165,good_rsupname,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_rsupname,?
+166,good_terrname,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_terrname,Territory
+167,good_total_border,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_total_border,Country
+168,good_gsupname,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_gsupname,Support
+169,good_rebesthigh,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_rebesthigh,Size
+170,good_govextpart,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_govextpart,?
+171,good_mobcap,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_mobcap,?
+172,good_gtypesup,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_gtypesup,Support
+173,good_year,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_year,Date
+174,good_side_a,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_side_a,Country
+175,good_fightcap,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_fightcap,?
+176,good_land,861,0.9885,"Stewart, Megan (2016) ""Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties?"" Replication Dataset",good_land,Country
+177,mas_maxedu,681,0.7819,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_maxedu,Education
+178,mas_totalpopmin,665,0.7635,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_totalpopmin,Population
+179,mas_ethnic,639,0.7336,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_ethnic,Ethno-Nationalism
+180,mas_terrcontrol,641,0.7359,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_terrcontrol,Territory
+181,mas_side_b,639,0.7336,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_side_b,Group Name
+182,mas_location,639,0.7336,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_location,Country
+183,mas_preconflict_health,686,0.7876,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_preconflict_health,Health
+184,mas_yearmin,639,0.7336,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_yearmin,Date
+185,mas_maxhealth,688,0.7899,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_maxhealth,Health
+186,mas_communist,639,0.7336,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_communist,Political Activity
+187,mas_yearmax,639,0.7336,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_yearmax,Date
+188,mas_preconflict_edu,683,0.7842,"Stewart, Megan ""Rebel Governance: Military Boon or Military Bust?""",mas_preconflict_edu,Education
+189,gsw_target,622,0.7141,"Stewart, Megan ""Mass Protests and the Resource Curse: The Politics of Demobilization in Rentier Autocracies?""",gsw_target,Target
+190,gsw_wbcode,622,0.7141,"Stewart, Megan ""Mass Protests and the Resource Curse: The Politics of Demobilization in Rentier Autocracies?""",gsw_wbcode,?
+191,gsw_repression,626,0.7187,"Stewart, Megan ""Mass Protests and the Resource Curse: The Politics of Demobilization in Rentier Autocracies?""",gsw_repression,Violence
+192,gsw_lccode,622,0.7141,"Stewart, Megan ""Mass Protests and the Resource Curse: The Politics of Demobilization in Rentier Autocracies?""",gsw_lccode,Country
+193,gsw_year,622,0.7141,"Stewart, Megan ""Mass Protests and the Resource Curse: The Politics of Demobilization in Rentier Autocracies?""",gsw_year,Date
+194,gsw_location,622,0.7141,"Stewart, Megan ""Mass Protests and the Resource Curse: The Politics of Demobilization in Rentier Autocracies?""",gsw_location,Country
+195,gsw_campaign,622,0.7141,,,
+196,gsw_cyear,622,0.7141,"Stewart, Megan ""Mass Protests and the Resource Curse: The Politics of Demobilization in Rentier Autocracies?""",gsw_cyear,Date
+197,war_id,627,0.7199,"Stewart, Megan ""Civil War as State-Making""",war_id,Group ID
+198,war_acr,627,0.7199,"Stewart, Megan ""Civil War as State-Making""",war_acr,Country
+199,war_dyadperiod,627,0.7199,"Stewart, Megan ""Civil War as State-Making""",war_dyadperiod,Dyad
+200,war_terrcontrol,641,0.7359,"Stewart, Megan ""Civil War as State-Making""",war_terrcontrol,Territory
+201,war_side_b,627,0.7199,"Stewart, Megan ""Civil War as State-Making""",war_side_b,Group Name
+202,war_l1democracy,666,0.7646,"Stewart, Megan ""Civil War as State-Making""",war_l1democracy,Political Activity
+203,war_l1totalpop_log,655,0.752,"Stewart, Megan ""Civil War as State-Making""",war_l1totalpop_log,Population
+204,war_confid,627,0.7199,"Stewart, Megan ""Civil War as State-Making""",war_confid,Conflict ID
+205,war_communist,639,0.7336,"Stewart, Megan ""Civil War as State-Making""",war_communist,Political Activity
+206,war_side_a,627,0.7199,"Stewart, Megan ""Civil War as State-Making""",war_side_a,Country
+207,war_year,627,0.7199,"Stewart, Megan ""Civil War as State-Making""",war_year,Date
+208,war_location,627,0.7199,"Stewart, Megan ""Civil War as State-Making""",war_location,Country
+209,war_ethnonsec,629,0.7222,"Stewart, Megan ""Civil War as State-Making""",war_ethnonsec,Ethno-Nationalism
+210,war_dyadid,627,0.7199,"Stewart, Megan ""Civil War as State-Making""",war_dyadid,Dyad
+211,war_obsid,627,0.7199,"Stewart, Megan ""Civil War as State-Making""",war_obsid,?
